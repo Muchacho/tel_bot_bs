@@ -1,0 +1,16 @@
+D:\projects\tbot\tbot\obj\Debug\netcoreapp3.1\tbot.csproj.AssemblyReference.cache
+D:\projects\tbot\tbot\obj\Debug\netcoreapp3.1\tbot.AssemblyInfoInputs.cache
+D:\projects\tbot\tbot\obj\Debug\netcoreapp3.1\tbot.AssemblyInfo.cs
+D:\projects\tbot\tbot\obj\Debug\netcoreapp3.1\tbot.csproj.CoreCompileInputs.cache
+D:\projects\tbot\tbot\bin\Debug\netcoreapp3.1\tbot.exe
+D:\projects\tbot\tbot\bin\Debug\netcoreapp3.1\tbot.deps.json
+D:\projects\tbot\tbot\bin\Debug\netcoreapp3.1\tbot.runtimeconfig.json
+D:\projects\tbot\tbot\bin\Debug\netcoreapp3.1\tbot.runtimeconfig.dev.json
+D:\projects\tbot\tbot\bin\Debug\netcoreapp3.1\tbot.dll
+D:\projects\tbot\tbot\bin\Debug\netcoreapp3.1\tbot.pdb
+D:\projects\tbot\tbot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\projects\tbot\tbot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\projects\tbot\tbot\obj\Debug\netcoreapp3.1\tbot.csproj.CopyComplete
+D:\projects\tbot\tbot\obj\Debug\netcoreapp3.1\tbot.dll
+D:\projects\tbot\tbot\obj\Debug\netcoreapp3.1\tbot.pdb
+D:\projects\tbot\tbot\obj\Debug\netcoreapp3.1\tbot.genruntimeconfig.cache
